@@ -1,0 +1,8 @@
+# SPDX-FileCopyrightText: The SWAP-IT Contributors
+# SPDX-License-Identifier: MIT
+
+plugins:
+  - jekyll-remote-theme
+remote_theme: pages-themes/cayman@v0.2.0
+title: SWAP-IT
+description: Innovative production architecture for the factory of the future.

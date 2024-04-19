@@ -1,0 +1,8 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: swap-it.github.io
+Upstream-Contact:
+Source: https://github.com/swap-it/swap-it.github.io
+
+Files: assets/*
+Copyright: The SWAP-IT Contributors
+License: CC-BY-4.0
