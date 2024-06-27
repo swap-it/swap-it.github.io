@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC-BY-4.0
 In today's dynamic and demanding global marketplace, manufacturing companies are challenged to create customized and cost-effective products. In the face of increasing market volatility, these companies must not only be flexible, but also guarantee on-time delivery, high product quality and complete traceability. To meet these complex requirements, the interdisciplinary Fraunhofer consortium of ten different institutes offers innovative software and hardware solutions that include advanced approaches to production control and organization, component handling, quality assurance, and traceability.
 <br /><br />
 <center>
-<iframe width="100%" height="625" src="https://www.youtube.com/embed/BqtzeEOSPfs&cc_load_policy=1" style="box-shadow: 0px 5px 5px gray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="625" src="https://www.youtube.com/embed/BqtzeEOSPfs?cc_load_policy=1" style="box-shadow: 0px 5px 5px gray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br />
 ## **The »SWAP-IT« Architecture**
@@ -45,7 +45,7 @@ The use of the »SWAP-IT» architecture in combination with the »PFDL« enables
   </label>
 </div>
     </div>
-    <div class="box sidebar2"><iframe style="box-shadow: 10px 5px 5px gray;" width="100%" height="455" src="https://www.youtube.com/embed/bdl0mfd_s7k&cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div>
+    <div class="box sidebar2"><iframe style="box-shadow: 10px 5px 5px gray;" width="100%" height="455" src="https://www.youtube.com/embed/bdl0mfd_s7k?cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
