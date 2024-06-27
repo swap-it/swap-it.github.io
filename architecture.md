@@ -47,7 +47,7 @@ The scheduler parses and validates PFDL files, which are then transformed into a
 This model can then be used to generate a petri net, which is used to control the production by triggering events and receivve events, e.g. when a service has finished.
 To enable this, the PFDL provides interfaces in both directions enabling a process control that makes use of generated PFDLs and keep track of the current state of the execution.
 
-### **PFDL VS Code Extension**
+#### **PFDL VS Code Extension**
 To support the development of PFDL programs in [Visual Studio Code](https://code.visualstudio.com/), an extension has been developed that provides features such as syntax and error highlighting, code completion, and visualization of the PFDL code as a Petri net.
 These features increase integration speed and enable a deeper understanding of the implemented process flow by observing the generated petri net.
 <br /><br />
@@ -70,8 +70,6 @@ The dashboard also maintains a history of finished orders for future use and pro
 The tool is implemented as a Flask webserver and can be easily started as an Python3 application.
 It is possible to connect the Scheduler with a Dashboard. This will add the corresponding Production Order to the Dashboard when the Scheduler is started. Now, all updates of the order are visualized in real time.
 To enable this functionality, an address to the dashboard can be passed to the Scheduler class. If such an address is given, the Scheduler will send log messages (e.g. Task started, Service finished, ...), Petri Net updates, and order updates to the corresponding address. You can, however, also send messages to the dashboard from outside of the scheduler.
-
-
 
 ### **Execution Engine**
 The Execution Engine (EE) acts as a link between the PFDL Scheduler and Field Level Devices. Our implementation uses the EE as an OPC UA Server, but it can be adapted to different approaches.

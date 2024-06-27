@@ -7,7 +7,7 @@ SPDX-License-Identifier: CC-BY-4.0
 In today's dynamic and demanding global marketplace, manufacturing companies are challenged to create customized and cost-effective products. In the face of increasing market volatility, these companies must not only be flexible, but also guarantee on-time delivery, high product quality and complete traceability. To meet these complex requirements, the interdisciplinary Fraunhofer consortium of ten different institutes offers innovative software and hardware solutions that include advanced approaches to production control and organization, component handling, quality assurance, and traceability.
 <br /><br />
 <center>
-<iframe width="100%" height="625" src="https://www.youtube.com/embed/BqtzeEOSPfs" style="box-shadow: 0px 5px 5px gray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="625" src="https://www.youtube.com/embed/BqtzeEOSPfs?cc_load_policy=1" style="box-shadow: 0px 5px 5px gray" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </center>
 <br />
 ## **The »SWAP-IT« Architecture**
@@ -33,7 +33,7 @@ In this way, each order is executed individually and efficiently according to sp
 This case-by-case flexibility is not possible in traditional manufacturing with its standardized workstations.
 
 With the help of these basic software components the precise definition and execution of production orders is possible.
-The use of the »SWAP-IT» architecture in combination with the »PFDL« enables fully automated and machine-readable production orders. This facilitates dynamic and efficient allocation of production resources, such as through the OPC-UA-based connection of machine tools and production systems, and allows for immediate reaction during the production process.
+The use of the »SWAP-IT» architecture in combination with the »PFDL« enables fully automated and machine-readable production orders. This facilitates dynamic and efficient allocation of production resources, such as through the OPC UA-based connection of machine tools and production systems, and allows for immediate reaction during the production process.
 
 <div class="wrapper">
     <div class="box sidebar">
@@ -45,7 +45,7 @@ The use of the »SWAP-IT» architecture in combination with the »PFDL« enables
   </label>
 </div>
     </div>
-    <div class="box sidebar2"><iframe style="box-shadow: 10px 5px 5px gray;" width="100%" height="455" src="https://www.youtube.com/embed/bdl0mfd_s7k" frameborder="0" allowfullscreen></iframe></div>
+    <div class="box sidebar2"><iframe style="box-shadow: 10px 5px 5px gray;" width="100%" height="455" src="https://www.youtube.com/embed/bdl0mfd_s7k?cc_load_policy=1" frameborder="0" allowfullscreen></iframe></div>
 </div>
 
 
@@ -73,7 +73,7 @@ In this context, user can configure the composition of lights and the number of 
 Besides, the user can choose between multiple shapes for the stand segment of the traffic light.
 Next to this simple example scenario, four use cases were already implemented and are introduced as [success stories](success-stories.md). 
  
-## **Interfaces in OPC-UA**
+## **Interfaces in OPC UA**
 
 Highly flexible production systems can be implemented to cost-effectively manufacture customized products of the highest quality.
 The interfaces are implemented using the established OPC CA standard to keep the entry barrier low for interested companies.
@@ -88,7 +88,7 @@ Together, these modules enable simple piloting and simulation without external c
 ### Base Modules
 
 - [Production Flow Description Language (PFDL)](https://github.com/iml130/pfdl) @ GitHub
-- [PFDL VS Code Extension](https://github.com/iml130/pfdl-vscode-extension)
+  - [PFDL VS Code Extension](https://github.com/iml130/pfdl-vscode-extension)
 
 ### Tech Modules
 
@@ -100,15 +100,10 @@ Together, these modules enable simple piloting and simulation without external c
 ## **Where else to find »SWAP-IT«?**
 
 ### Upcoming
-- **[Control 2024](https://www.control-messe.de/)**
-  - Control International trade fair for quality assurance
-  - April 23, 2024  -  April 26, 2024, Stuttgart (Germany)
-  - Booth 8201 / Hall 8
 
-
-- **Industry Workshop 2024**
-  - September 2024
-  - Further information will be available soon.
+- **[Industry Workshop 2024](https://www.iwu.fraunhofer.de/de/veranstaltungen-und-messen/tagungen-und-workshops/industrieworkshop-swap.html)**
+  - September 26, 2024, Dresden (Germany)
+  - Industrial workshop in Dresden featuring presentations on results and industry feedback, along with live demonstrations of interconnected manufacturing units. The workshop includes practical sessions offering deep insights into project solutions and discussions on adapting the SWAP-IT architecture to various industrial requirements.
 
 ### Past
 
@@ -117,3 +112,7 @@ Together, these modules enable simple piloting and simulation without external c
   - April 17, 2023  -  April 21, 2023, Hannover (Germany)
   - Booth A12, Hall 16
 
+- **[Control 2024](https://www.vision.fraunhofer.de/de/veranstaltungen/messe/control/fraunhofer-vision-control-2024/swap-roboterteams-produktionsarchitekturen.html)**
+  - Control International trade fair for quality assurance
+  - April 23, 2024  -  April 26, 2024, Stuttgart (Germany)
+  - Booth 8201 / Hall 8
