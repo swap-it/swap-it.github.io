@@ -18,8 +18,7 @@ The overall architecture is based on the [initial work](https://ieeexplore.ieee.
 Each resource on the shop floor is classified as a SWAP-IT asset by creating an asset-specific module type based on the module type defined in the SWAP-IT Common Information Model.
 To enable the connection of machines from a variety of different manufactures and to avoid a vendor lock-in, the whole architecture relies on so-called semantic information models which are a simple interchange format that describes which services the machines are offering for example.
 Currently, the communication of the modules and the assets is based on OPC UA, however, it is not limited to it, as there are communication interfaces at every component.
-As each compony face sdifferent challenges and has a different production enviornment, the implementation of such an integration has to be done case-by-case and can only be supported by the modular structure.
-How such an integration is possible and how the SWAP-IT assets are identified and created and how an existing production environment can be realized is explained in the [integration section](how-to-integrate-swap-it.md).
+As each company faces different challenges and has a different production enviornment, the implementation of such an integration has to be done case-by-case and can only be supported by the modular structure.
 
 ## **Basic Modules**
 The »SWAP-IT« basic modules are used through all use cases and are available for every newly created project.
@@ -38,7 +37,6 @@ It allows manufacturers to break down the entire production process into individ
 Within a PFDL program, manufacturers can define different aspects of the production flow such as task dependencies, parallel execution, loops, conditions, and synchronization. 
 This flexibility enables the creation of complex and dynamic production flows that accurately reflect real-world manufacturing scenarios.
 Overall, PFDL plays a crucial role in enhancing the understanding, communication, and automation of manufacturing processes, ultimately leading to improved productivity, quality, and efficiency in the production environment.
-
 
 #### PFDL Scheduler
 The PFDL itself is just the description language and needs to be parsed, validated, and transformed into a structure to control the production process.
