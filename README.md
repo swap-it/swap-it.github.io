@@ -12,7 +12,7 @@ SWAP-IT Introduction Page
 
 ---
 This website serves as an introdcution to the SWAP-IT architecture developed inside the Fraunhofer lighthouse project SWAP.
-The website can be found :books: [here](swap-it.github.io).
+The website can be found :books: [here](https://swap-it.github.io/).
 
 # About
 <div align="left">
