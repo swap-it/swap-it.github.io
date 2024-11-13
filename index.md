@@ -91,8 +91,9 @@ Together, these modules enable simple piloting and simulation without external c
   - [PFDL VS Code Extension](https://github.com/iml130/pfdl-vscode-extension)
 
 ### Tech Modules
-
-- These modules are in preparation and will follow soon.
+- [Digital Holography](https://github.com/ipm-pk/digital-holography)
+- [Fingerprint](https://github.com/ipm-pk/fingerprint)
+- More modules are in preparation and will follow soon.
 
 ### Succes Stories
 - [Demonstration Scenario](https://github.com/swap-it/swap-it-demo-scenario)
