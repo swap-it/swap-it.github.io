@@ -18,7 +18,7 @@ The CAD model of the component is then used to divide the segments for parallel 
 Once completed, the individual segments are coming together and are welded to form a complete component.
 To ensure a proper quality of the final product the final step includes surface and finish processing.
 
-For more information, visited the use case website [here](https://www.produktion.fraunhofer.de/de/forschung-im-verbund/formate/leitprojekte/swap/grossbauteilfertigung.html)
+For more information, visited the use case website [here](https://www.produktion.fraunhofer.de/de/forschung-im-verbund/formate/leitprojekte/swap/grossbauteilfertigung.html) or the success story website [here](https://github.com/swap-it/cyber-physical-factory) where a practical implementation is presented.
 
 ## **Precision component production**
 <center>
